@@ -1,4 +1,4 @@
-*ManageLegion is not supported anymore. Use [Disrupt Editor](https://github.com/rootCBR/DisruptManager) instead.*
+**ManageLegion is deprecated and has been superceded by [DisruptManager](https://github.com/rootCBR/DisruptManager).**
 
 # ManageLegion
 The easiest way to install mods for Watch Dogs Legion.
